@@ -1,0 +1,21 @@
+Aula 01 - Introdução à Lógica de Programação
+Definição de Algoritmo
+Algoritmo é uma sequência lógica e finita de passos usada para resolver um problema ou realizar uma tarefa específica.
+Entrada, Processamento e Saída
+Entrada: são os dados que o algoritmo recebe para começar a execução.
+Processamento: é o conjunto de operações realizadas com os dados de entrada para gerar um resultado.
+Saída: é o resultado final produzido após o processamento das informações.
+Exemplo do dia a dia (Fazer café)
+1. Colocar água na chaleira ou cafeteira  
+2. Adicionar pó de café no filtro  
+3. Aquecer a água  
+4. Despejar a água quente sobre o pó de café  
+5. Esperar o café passar para o recipiente  
+6. Servir o café na xícara  
+Palavras-chave da aula
+Algoritmo: sequência de passos utilizada para resolver um problema.
+Hardware: parte física do computador, como teclado, monitor e processador.
+Software: programas que permitem executar tarefas no computador.
+Lógica: forma de organizar o pensamento para resolver problemas corretamente.
+Inteligência Artificial (IA): tecnologia que permite que máquinas simulem habilidades humanas, como aprender, analisar dados e tomar decisões
+Lógica de programação: raciocínio usado para criar algoritmos e programas.
